@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "nom": "Trabelsi",
+      "prenom": "Mohamed",
+      "actif": true
+    },
+    {
+      "id": 4,
+      "nom": "Mansouri",
+      "prenom": "Yassine",
+      "actif": false
+    },
+    {
+      "id": 5,
+      "nom": "raef",
+      "prenom": "jawed",
+      "actif": true
+    },
+    {
+      "id": 6,
+      "nom": "Kefi",
+      "prenom": "Sarra",
+      "actif": true
+    },
+    {
+      "id": 7,
+      "nom": "raef",
+      "prenom": "jawed",
+      "actif": false
+    }
+  ]
+}
